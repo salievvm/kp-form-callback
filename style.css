@@ -1,0 +1,34 @@
+div.b24-form-field input.b24-form-control,
+div.b24-form-field textarea.b24-form-control {
+  border-radius: 16px;
+}
+
+div.b24-form-field-layout-section {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1;
+}
+
+div.b24-form-field-file {
+  background-color: unset;
+  border-radius: 16px;
+  border: 2px dashed #ECECEC;
+}
+
+div.b24-form-field-file div.b24-form-control-label {
+  text-align: center;
+  font-size: 14px;
+  color: #9F9F9F;
+  font-weight: 400;
+  display: none;
+}
+
+div.b24-form-field-file div.b24-form-control-file-item-empty {
+  text-align: center;
+}
+
+div.b24-form-field-file label.b24-form-control {
+  border: none;
+  font-weight: 700;
+  color: #e0200b;
+}
